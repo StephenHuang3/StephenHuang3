@@ -47,10 +47,16 @@ I'm eager to apply my skills in a challenging co-op position for the Winter and 
 
 ## Experience
 
-- I interned at[Compass Digital](https://compassdigital.io/) as a data science intern, developing **AI-driven** solutions to address complex business challenges
+- I interned at [Compass Digital](https://compassdigital.io/) as a data science intern, developing **AI-driven** solutions to address complex business challenges
 - I interned at [Met-Scan Canada](https://www.met-scan.com/) as a machine learning researcher, training **deep learning models** for indoor localization
-- I interned at [Marsh & Mclennan Companies](https://www.mmc.com/) as a software developer, building **full-stack applications** for the insurance industry
-- I interned at [Invafresh](https://www.invafresh.com/) as a software developer, developing **web applications** for the food industry
+- I interned at [Marsh & Mclennan Companies](https://www.mmc.com/) and [Invafresh](https://www.invafresh.com/) as a software developer, building **full-stack applications**
+
+## Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-@bonniepeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephenhuang1/)](https://www.linkedin.com/in/stephenhuang1/)
+[![Website Badge](https://img.shields.io/badge/-bonniepeng.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://stephenhuang3.github.io/)](https://stephenhuang3.github.io/)
+[![Outlook Badge](https://img.shields.io/badge/-bonnie.peng-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:bonnie.peng@uwaterloo.ca)](mailto:bonnie.peng@uwaterloo.ca)
+
 <!--
 **StephenHuang3/StephenHuang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
