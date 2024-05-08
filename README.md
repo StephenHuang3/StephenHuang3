@@ -4,10 +4,6 @@ I'm a third-year **Computer Science student at the University of Waterloo** 📚
 
 I'm eager to apply my skills in a challenging co-op position for the Winter and Summer of 2025.
 
-### Beyond the classroom,
-
-I am an avid sports enthusiast, enjoying tennis and snowboarding. I also have a passion for travel, with Japan being one of my favorite destinations. These experiences enrich my understanding of diverse cultures and fuel my professional creativity and drive.
-
 ## Skills
 
 <div align="left">
@@ -38,7 +34,7 @@ I am an avid sports enthusiast, enjoying tennis and snowboarding. I also have a 
 <img src="./icons/nodejs.png" alt="node.js" width="50rem" height="50rem" />
 <img src="./icons/logo-react-icon.png" alt="react.js" width="50rem" height="50rem" />
 <img src="./icons/angular.png" alt="angular" width="50rem" height="50rem" />
-<img src="./icons/django.png" alt="django" width="50rem" height="50rem" />
+<img src="./icons/django.png" alt="django" width="150rem" height="50rem" />
 <img src="./icons/docker.png" alt="docker" width="50rem" height="50rem" />
 <img src="./icons/azure.png" alt="azure" width="50rem" height="50rem" />
 <img src="./icons/gcp.png" alt="gcp" width="50rem" height="50rem" />
