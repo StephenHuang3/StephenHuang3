@@ -2,9 +2,9 @@
 
 I'm a third-year **Computer Science student at the University of Waterloo** 📚, specializing in Machine Learning and Full Stack Development. My career goal is to innovate and make a significant impact as a Machine Learning Engineer.
 
-I'm eager to apply my skills in a challenging co-op position for the Winter and Summer of 2025.
+I'm eager to apply my skills in a challenging co-op position for the **Winter and Summer of 2025**.
 
-## Skills
+## Skills 🔭
 
 <div align="left">
 <p>Languages</p>
@@ -45,13 +45,20 @@ I'm eager to apply my skills in a challenging co-op position for the Winter and 
 
 </div>
 
-## Experience
+## Experience 👩‍💻
 
 - I interned at [Compass Digital](https://compassdigital.io/) as a data science intern, developing **AI-driven** solutions to address complex business challenges
 - I interned at [Met-Scan Canada](https://www.met-scan.com/) as a machine learning researcher, training **deep learning models** for indoor localization
 - I interned at [Marsh & Mclennan Companies](https://www.mmc.com/) and [Invafresh](https://www.invafresh.com/) as a software developer, building **full-stack applications**
 
-## Contact
+## Beyond the classroom ⚡
+
+- tennis 🎾
+- snowboarding 🏂
+- weightlifting 💪
+- travelling ✈️
+
+## Contact 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/-@stephenhuang1-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephenhuang1/)](https://www.linkedin.com/in/stephenhuang1/)
 [![Website Badge](https://img.shields.io/badge/-stephenhuang3.github.io-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://stephenhuang3.github.io/)](https://stephenhuang3.github.io/)
