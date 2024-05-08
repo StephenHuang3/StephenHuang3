@@ -25,6 +25,7 @@ I'm eager to apply my skills in a challenging co-op position for the Winter and 
 <img src="./icons/keras.png" alt="keras" width="50rem" height="50rem" />
 <img src="./icons/numpy.png" alt="numpy" width="50rem" height="50rem" />
 <img src="./icons/pandas.png" alt="pandas" width="50rem" height="50rem" />
+<img src="./icons/vertexai.png" alt="vertexai" width="50rem" height="50rem" />
 <img src="./icons/opencv.png" alt="opencv" width="50rem" height="50rem" />
 <img src="./icons/jupyter.png" alt="jupyter" width="50rem" height="50rem" />
 <img src="./icons/sklearn.png" alt="sklearn" width="50rem" height="50rem" />
@@ -43,6 +44,13 @@ I'm eager to apply my skills in a challenging co-op position for the Winter and 
 <img src="./icons/mongodb.png" alt="mongodb" width="50rem" height="50rem" />
 
 </div>
+
+## Experience
+
+- I interned at[Compass Digital](https://compassdigital.io/) as a data science intern, developing **AI-driven** solutions to address complex business challenges
+- I interned at [Met-Scan Canada](https://www.met-scan.com/) as a machine learning researcher, training **deep learning models** for indoor localization
+- I interned at [Marsh & Mclennan Companies](https://www.mmc.com/) as a software developer, building **full-stack applications** for the insurance industry
+- I interned at [Invafresh](https://www.invafresh.com/) as a software developer, developing **web applications** for the food industry
 <!--
 **StephenHuang3/StephenHuang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
