@@ -53,9 +53,9 @@ I'm eager to apply my skills in a challenging co-op position for the Winter and 
 
 ## Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-@bonniepeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephenhuang1/)](https://www.linkedin.com/in/stephenhuang1/)
+[![Linkedin Badge](https://img.shields.io/badge/-@stephenhuang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephenhuang1/)](https://www.linkedin.com/in/stephenhuang1/)
 [![Website Badge](https://img.shields.io/badge/-bonniepeng.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://stephenhuang3.github.io/)](https://stephenhuang3.github.io/)
-[![Outlook Badge](https://img.shields.io/badge/-bonnie.peng-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:bonnie.peng@uwaterloo.ca)](mailto:bonnie.peng@uwaterloo.ca)
+[![Outlook Badge](https://img.shields.io/badge/-bonnie.peng-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:s395huan@uwaterloo.ca)](mailto:s395huan@uwaterloo.ca)
 
 <!--
 **StephenHuang3/StephenHuang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
