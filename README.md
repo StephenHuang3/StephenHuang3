@@ -1,8 +1,8 @@
 # Hello there, I'm Stephen! 👋
 
-I'm a third-year **Computer Science student at the University of Waterloo** 📚, specializing in Machine Learning and Full Stack Development. My career goal is to innovate and make a significant impact as a Machine Learning Engineer.
+I'm a fourth-year **Computer Science student at the University of Waterloo** 📚, specializing in Machine Learning, Infrastructure, and Full Stack Development. My career goal is to innovate and make a significant impact as a Machine Learning and Infrastructure Engineer.
 
-I'm eager to apply my skills in a challenging co-op position for the **Winter and Summer of 2025**.
+I'm eager to apply my skills in a challenging full time position starting **Summer of 2026**.
 
 ## Skills 🔭
 
@@ -47,6 +47,8 @@ I'm eager to apply my skills in a challenging co-op position for the **Winter an
 
 ## Experience 👩‍💻
 
+- I interned at [Amazon Web Services](https://aws.amazon.com/) as a Software Engineer on the DynamoDB team, developing new features and automating deployment.
+- I interned at [Meta](https://meta.com/) as a Software Engineer, developing data pipelines and fine-tuned LLMs to detect scraping.
 - I interned at [Compass Digital](https://compassdigital.io/) as a data science intern, developing **AI-driven** solutions to address complex business challenges
 - I interned at [Met-Scan Canada](https://www.met-scan.com/) as a machine learning researcher, training **deep learning models** for indoor localization
 - I interned at [Marsh & Mclennan Companies](https://www.mmc.com/) and [Invafresh](https://www.invafresh.com/) as a software developer, building **full-stack applications**
